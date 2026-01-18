@@ -1,1 +1,1 @@
-Thia ia read me text
+This is a read me text.
